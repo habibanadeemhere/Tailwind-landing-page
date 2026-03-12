@@ -7,7 +7,7 @@ const Resource = () => {
   return (
     <>
      <section className="resources mt-5 px-4 md:px-20">
-  <div className="text text-left">
+  <div className="text text-center">
     <button className="text-black px-2 py-1 bg-[#EFFEFF]/60 border-2 border-[#BFEFF3]/60 rounded-md font-semibold">
       RESOURCESS
     </button>
