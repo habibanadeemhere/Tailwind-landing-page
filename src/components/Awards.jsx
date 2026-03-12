@@ -13,7 +13,7 @@ const Awards = () => {
    <>
    
    <section className="awards mt-10">
-   <div className="text">
+   <div className="text text-center">
      <button className="text-black px-2 py-1 bg-[#EFFEFF]/60 border-2 border-[#BFEFF3]/60 rounded-md font-semibold">
       AWARDS
     </button><br /><br />
