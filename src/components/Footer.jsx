@@ -3,8 +3,8 @@ import Map from '../assets/map.png'
 
 const Footer = () => {
   return (
-    <section className="w-screen bg-[#232323] relative left-1/2 right-1/2 -ml-[50vw] -mr-[50vw]">
-      <div className="w-full max-w-screen-2xl mx-auto flex flex-col md:flex-row justify-between items-start gap-10 text-[#787878] px-10 md:px-24 py-12">
+    <section className="w-full bg-[#232323]">
+      <div className="w-full max-w-screen-2xl mx-auto flex flex-col md:flex-row justify-between items-start gap-10 text-[#787878] px-10 md:px-24 py-12 mt-5">
         <div className="flex flex-col items-start">
           <img src={Map} alt="Map" className="w-32 md:w-40"/>
           <p className="mt-3 text-sm">
