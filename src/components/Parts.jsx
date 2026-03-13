@@ -3,7 +3,7 @@ import image from '../assets/image 40.png'
 
 const Parts = () => {
   return (
-    <section className="flex gap-8 py-12 justify-center items-center flex-col md:flex-row px-6 md:px-20">
+    <section className="flex gap-4 py-12 justify-center items-center flex-col md:flex-row px-6 md:px-10">
       <div className="text-left w-full md:w-1/2">
         <button className="bg-[#EFFEFF] border rounded px-2 py-1">
           OUR PROMISES
